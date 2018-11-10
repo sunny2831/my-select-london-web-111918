@@ -1,4 +1,4 @@
-def my_select(array) 
+def my_select(array)
 count = 0
 result = []
 
