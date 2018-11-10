@@ -12,4 +12,3 @@ end
 
 my_select(nums) {|num|
   num.even}
-
